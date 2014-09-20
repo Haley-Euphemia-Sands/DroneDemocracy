@@ -1,0 +1,1 @@
+This is currently a concept being thought out to create a platform for a Twitch plays kind of system for drone via setting up a DroneDemocracy Server.
